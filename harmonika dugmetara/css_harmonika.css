@@ -1,0 +1,45 @@
+.main{
+    width: 60vw;
+    height: auto;
+    margin: auto;
+    margin-top:20vh;
+    padding:0;
+    border: 10px solid red;
+    display: block;
+    overflow: hidden;
+}
+.redovi{
+    width:auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.red1{
+    padding-left: 40px;
+    padding-right: 100px;
+}
+.red2{
+    padding-left: 10px;
+    padding-right: 60px;
+}
+.red3{
+    padding-left: 40px;
+    padding-right: 100px;
+}
+.red4{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.red5{
+    padding-left: 40px;
+    padding-right: 30px;
+}
+button{
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+}
+button:hover{
+    background-color: #5f9ea0;
+}
